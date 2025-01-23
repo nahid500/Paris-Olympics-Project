@@ -6,8 +6,11 @@ import Footer from '../../components/Footer';
 import Partners from '../../components/Partners';
 
 const Home = () =>{
+<<<<<<< HEAD
 
     
+=======
+>>>>>>> 210ee058423c3e4bf45b7710be865b7f785d4f7e
     return(
         <div>
             

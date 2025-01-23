@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState, useEffect } from "react";
 import Navbar from "../../components/NavBar";
 import Footer from "../../components/Footer";
@@ -153,5 +154,17 @@ const Athletes = () => {
         </div>
     );
 };
+=======
+import React from 'react';
+import Navbar from '../../components/NavBar';
+
+const Athletes = () => {
+    return (
+        <div>
+            <Navbar/>
+        </div>
+    );
+}
+>>>>>>> 210ee058423c3e4bf45b7710be865b7f785d4f7e
 
 export default Athletes;

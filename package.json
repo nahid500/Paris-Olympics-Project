@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^1.7.9",
     "jwt-decode": "^4.0.0",
+=======
+    "axios": "^1.7.7",
+>>>>>>> 210ee058423c3e4bf45b7710be865b7f785d4f7e
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hook-form": "^7.53.1",
